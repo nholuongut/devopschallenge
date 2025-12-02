@@ -1,8 +1,20 @@
 # DevOpsChallenge – Azure Container App
 
-Author: Nho Luong  
-Email: luongutnho@hotmail.com
+![](https://i.imgur.com/waxVImv.png)
+### [View all Roadmaps](https://github.com/nholuongut/all-roadmaps) &nbsp;&middot;&nbsp; [Best Practices](https://github.com/nholuongut/all-roadmaps/blob/main/public/best-practices/) &nbsp;&middot;&nbsp; [Questions](https://www.linkedin.com/in/nholuong/)
+<br/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7931E&width=435&lines=Hello%2C+I'm+Nho+Luong🇻🇳🇻🇳🇻🇳🇻🇳🇻)](https://git.io/typing-svg)
+
+# **About Me🇻**
+- ✍️ Blogger
+- ⚽ Football Player
+- ♾️ DevOps Engineer
+- ⭐ Open-source Contributor
+- 😄 Pronouns: Mr. Nho Luong
+- 📚 Lifelong Learner | Always exploring something new
+- 📫 How to reach me: luongutnho@hotmail.com
+- 
 ---
 
 ## 🔥 Overview
@@ -97,3 +109,11 @@ echo "https://$(terraform output -raw container_app_url)"
 * [WhatsApp](+84983630781)
 * [PayPal.Me](https://www.paypal.com/paypalme/nholuongut)
 * [Linkedin](https://www.linkedin.com/in/nholuong/)
+
+![](https://i.imgur.com/waxVImv.png)
+![](Donate.png)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
+
+# License🇻
+* Nho Luong (c). All Rights Reserved.🌟
+in.com/in/nholuong/)
