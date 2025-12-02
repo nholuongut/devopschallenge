@@ -116,4 +116,3 @@ echo "https://$(terraform output -raw container_app_url)"
 
 # License🇻
 * Nho Luong (c). All Rights Reserved.🌟
-in.com/in/nholuong/)
